@@ -5,6 +5,7 @@
 With the rise of online payments, fraudulent transactions are increasing rapidly. Manual detection is slow and inefficient.
 
 This project uses machine learning to automatically detect fraudulent transactions in real-time.
+
 ---
 ## 📌 Overview
 This project is a Machine Learning-based web application that detects fraudulent online payment transactions. It allows users to input transaction details and instantly predicts whether the transaction is **Fraudulent** or **Legitimate**.
@@ -48,9 +49,6 @@ The model is trained on historical transaction data to identify patterns and det
 ### 📝 Prediction Page
 
 <img width="1356" height="628" alt="Screenshot 2026-04-29 125405" src="https://github.com/user-attachments/assets/1c1a3703-f340-41d1-b7c4-c99a9162cea7" />
-
-### 📊 Result Page
-<img width="1356" height="629" alt="Screenshot 2026-04-29 122109" src="https://github.com/user-attachments/assets/5ecab90c-a0f5-4672-895c-5c6bea616233" />
 
 ---
 
