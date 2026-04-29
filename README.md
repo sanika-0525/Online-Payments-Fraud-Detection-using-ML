@@ -33,9 +33,6 @@ The model is trained on historical transaction data to identify patterns and det
 - **Libraries:** Pandas, NumPy, Matplotlib  
 
 ---
-
----
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
