@@ -1,5 +1,11 @@
 # 💳 ML-Based Online Payment Fraud Detection System
+---
+## 💡 Problem Statement
 
+With the rise of online payments, fraudulent transactions are increasing rapidly. Manual detection is slow and inefficient.
+
+This project uses machine learning to automatically detect fraudulent transactions in real-time.
+---
 ## 📌 Overview
 This project is a Machine Learning-based web application that detects fraudulent online payment transactions. It allows users to input transaction details and instantly predicts whether the transaction is **Fraudulent** or **Legitimate**.
 
@@ -19,7 +25,7 @@ With the rapid growth of digital payments, fraud detection systems are essential
 ## 🧠 Machine Learning Approach
 - **Dataset:** Online Payments Fraud Dataset (Kaggle)  
 - **Features Used:** Transaction type, amount, old balance, new balance  
-- **Model:** Random Forest Classifier *(update if different)*  
+- **Model:** Random Forest Classifier 
 - **Goal:** Classify transactions as Fraud or Not Fraud  
 
 The model is trained on historical transaction data to identify patterns and detect fraudulent activities.
